@@ -1,0 +1,10 @@
+{
+  "name": "munge",
+  "version": "1.0.0",
+  "description": "Munge the WDI data file to a more managable json format",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvrow": "^0.1.0"
+  }
+}

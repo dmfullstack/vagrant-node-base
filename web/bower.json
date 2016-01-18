@@ -1,0 +1,14 @@
+{
+  "name": "web",
+  "description": "arable land d3",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "underscore": "~1.8.3"
+  }
+}

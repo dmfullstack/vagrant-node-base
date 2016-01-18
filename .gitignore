@@ -1,2 +1,7 @@
 .vagrant
 node_modules
+*.xls
+
+*~
+bower_components
+
